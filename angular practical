@@ -1,0 +1,15 @@
+7th angular 
+
+	1.	open terminal 
+	2.	node -v 
+	3.	ng version 
+	4.	sudo ng new (anyname)
+	5.	Pc Password 
+	6.	Folder created on home 
+	7.	open Vs studio 
+	8.	Open that Folder 
+	9.	File > Folder > Src > create index.html 
+	10.	enter <h1 this is body> </h2>
+	11.	Open VS Terminal
+	12.	Sudo ng serve
+	13.	Click on follow Link
