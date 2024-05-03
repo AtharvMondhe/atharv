@@ -1,0 +1,24 @@
+5a. Push File To github 
+
+	1.	Open File In terminal 
+	2.	git config —global user.name ” ”
+	3.	git config —global user.email “ “ 
+	4.	git init 
+	5.	git add —a
+	6.	git commit -m “message”
+	7.	git branch -m main
+	8.	Create new repository pn github
+	9.	git remote add origin “ path”  ( New create Repository kelya vr Path yeto ) 
+	10.	git push -u origin main 
+	11.	Type username of github
+	12.	Go to settings in github 
+	13.	Setting 
+	14.	Developers setting 
+	15.	Personal access token 
+	16.	Token (classic) 
+	17.	Generate new token (classic) 
+	18.	Select all 
+	19.	Generate token 
+	20.	Copy password 
+	21.	Open teminal 
+	22.	Paste password in terminal “ ”
